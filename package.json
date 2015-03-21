@@ -1,0 +1,26 @@
+{
+  "name": "timestamp-stream",
+  "version": "0.0.0",
+  "description": "pipe data in -> get a time-series formatted object out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexander-daniel/timestamp-stream.git"
+  },
+  "keywords": [
+    "stream",
+    "timestamp"
+  ],
+  "author": "Alexander Vados <alex.vados@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexander-daniel/timestamp-stream/issues"
+  },
+  "homepage": "https://github.com/alexander-daniel/timestamp-stream",
+  "dependencies": {
+    "through2": "^0.6.3"
+  }
+}
