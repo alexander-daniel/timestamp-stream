@@ -1,6 +1,6 @@
 {
   "name": "timestamp-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "pipe data in -> get a time-series formatted object out",
   "main": "index.js",
   "scripts": {
