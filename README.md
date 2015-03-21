@@ -1,4 +1,5 @@
 # timestamp-stream
+Creates a new Transform Stream.
 pipe newline-separated data in -> get a time-series formatted object out
 
 
